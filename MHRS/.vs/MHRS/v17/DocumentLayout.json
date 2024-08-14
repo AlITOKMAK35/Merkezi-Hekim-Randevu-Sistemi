@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ali\\Desktop\\gt\\MHRS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2246963-E9E4-425E-9781-5CD5A4E3A186}|MHRS\\MHRS.csproj|C:\\Users\\ali\\Desktop\\gt\\MHRS\\mhrs\\sekreter_detay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2246963-E9E4-425E-9781-5CD5A4E3A186}|MHRS\\MHRS.csproj|solutionrelative:mhrs\\sekreter_detay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2246963-E9E4-425E-9781-5CD5A4E3A186}|MHRS\\MHRS.csproj|C:\\Users\\ali\\Desktop\\gt\\MHRS\\mhrs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2246963-E9E4-425E-9781-5CD5A4E3A186}|MHRS\\MHRS.csproj|solutionrelative:mhrs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2246963-E9E4-425E-9781-5CD5A4E3A186}|MHRS\\MHRS.csproj|c:\\users\\ali\\desktop\\gt\\mhrs\\mhrs\\sekreter_detay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2246963-E9E4-425E-9781-5CD5A4E3A186}|MHRS\\MHRS.csproj|solutionrelative:mhrs\\sekreter_detay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2246963-E9E4-425E-9781-5CD5A4E3A186}|MHRS\\MHRS.csproj|C:\\Users\\ali\\Desktop\\gt\\MHRS\\mhrs\\hasta_ekran\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2246963-E9E4-425E-9781-5CD5A4E3A186}|MHRS\\MHRS.csproj|solutionrelative:mhrs\\hasta_ekran\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2246963-E9E4-425E-9781-5CD5A4E3A186}|MHRS\\MHRS.csproj|c:\\users\\ali\\desktop\\gt\\mhrs\\mhrs\\hasta_ekran\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2246963-E9E4-425E-9781-5CD5A4E3A186}|MHRS\\MHRS.csproj|solutionrelative:mhrs\\hasta_ekran\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2246963-E9E4-425E-9781-5CD5A4E3A186}|MHRS\\MHRS.csproj|C:\\Users\\ali\\Desktop\\gt\\MHRS\\mhrs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2246963-E9E4-425E-9781-5CD5A4E3A186}|MHRS\\MHRS.csproj|solutionrelative:mhrs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2246963-E9E4-425E-9781-5CD5A4E3A186}|MHRS\\MHRS.csproj|C:\\Users\\ali\\Desktop\\gt\\MHRS\\mhrs\\hasta_giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2246963-E9E4-425E-9781-5CD5A4E3A186}|MHRS\\MHRS.csproj|solutionrelative:mhrs\\hasta_giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2246963-E9E4-425E-9781-5CD5A4E3A186}|MHRS\\MHRS.csproj|C:\\Users\\ali\\Desktop\\gt\\MHRS\\mhrs\\hasta_giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2246963-E9E4-425E-9781-5CD5A4E3A186}|MHRS\\MHRS.csproj|solutionrelative:mhrs\\hasta_giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2246963-E9E4-425E-9781-5CD5A4E3A186}|MHRS\\MHRS.csproj|c:\\users\\ali\\desktop\\gt\\mhrs\\mhrs\\hasta_ekranibase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2246963-E9E4-425E-9781-5CD5A4E3A186}|MHRS\\MHRS.csproj|solutionrelative:mhrs\\hasta_ekranibase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2246963-E9E4-425E-9781-5CD5A4E3A186}|MHRS\\MHRS.csproj|C:\\Users\\ali\\Desktop\\gt\\MHRS\\mhrs\\sql_baglan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2246963-E9E4-425E-9781-5CD5A4E3A186}|MHRS\\MHRS.csproj|solutionrelative:mhrs\\sql_baglan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2246963-E9E4-425E-9781-5CD5A4E3A186}|MHRS\\MHRS.csproj|c:\\users\\ali\\desktop\\gt\\mhrs\\mhrs\\hasta_kayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2246963-E9E4-425E-9781-5CD5A4E3A186}|MHRS\\MHRS.csproj|solutionrelative:mhrs\\hasta_kayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2246963-E9E4-425E-9781-5CD5A4E3A186}|MHRS\\MHRS.csproj|C:\\Users\\ali\\Desktop\\gt\\MHRS\\mhrs\\hasta_kayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2246963-E9E4-425E-9781-5CD5A4E3A186}|MHRS\\MHRS.csproj|solutionrelative:mhrs\\hasta_kayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2246963-E9E4-425E-9781-5CD5A4E3A186}|MHRS\\MHRS.csproj|c:\\users\\ali\\desktop\\gt\\mhrs\\mhrs\\sekreter_detay.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2246963-E9E4-425E-9781-5CD5A4E3A186}|MHRS\\MHRS.csproj|solutionrelative:mhrs\\sekreter_detay.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 58,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sekreter_detay.cs",
+              "DocumentMoniker": "C:\\Users\\ali\\Desktop\\gt\\MHRS\\MHRS\\Sekreter_detay.cs",
+              "RelativeDocumentMoniker": "MHRS\\Sekreter_detay.cs",
+              "ToolTip": "C:\\Users\\ali\\Desktop\\gt\\MHRS\\MHRS\\Sekreter_detay.cs",
+              "RelativeToolTip": "MHRS\\Sekreter_detay.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFUBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T22:59:57.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Hasta_EkraniBase.cs",
+              "DocumentMoniker": "C:\\Users\\ali\\Desktop\\gt\\MHRS\\MHRS\\Hasta_EkraniBase.cs",
+              "RelativeDocumentMoniker": "MHRS\\Hasta_EkraniBase.cs",
+              "ToolTip": "C:\\Users\\ali\\Desktop\\gt\\MHRS\\MHRS\\Hasta_EkraniBase.cs",
+              "RelativeToolTip": "MHRS\\Hasta_EkraniBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T22:54:12.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Hasta_Ekran\u0131.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ali\\Desktop\\gt\\MHRS\\MHRS\\Hasta_Ekran\u0131.cs",
+              "RelativeDocumentMoniker": "MHRS\\Hasta_Ekran\u0131.cs",
+              "ToolTip": "C:\\Users\\ali\\Desktop\\gt\\MHRS\\MHRS\\Hasta_Ekran\u0131.cs [Tasar\u0131m]",
+              "RelativeToolTip": "MHRS\\Hasta_Ekran\u0131.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T14:52:59.546Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Hasta_Ekran\u0131.cs",
+              "DocumentMoniker": "C:\\Users\\ali\\Desktop\\gt\\MHRS\\MHRS\\Hasta_Ekran\u0131.cs",
+              "RelativeDocumentMoniker": "MHRS\\Hasta_Ekran\u0131.cs",
+              "ToolTip": "C:\\Users\\ali\\Desktop\\gt\\MHRS\\MHRS\\Hasta_Ekran\u0131.cs",
+              "RelativeToolTip": "MHRS\\Hasta_Ekran\u0131.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvxcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T22:32:42.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Hasta_kayit.cs",
+              "DocumentMoniker": "C:\\Users\\ali\\Desktop\\gt\\MHRS\\MHRS\\Hasta_kayit.cs",
+              "RelativeDocumentMoniker": "MHRS\\Hasta_kayit.cs",
+              "ToolTip": "C:\\Users\\ali\\Desktop\\gt\\MHRS\\MHRS\\Hasta_kayit.cs",
+              "RelativeToolTip": "MHRS\\Hasta_kayit.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAADwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T14:52:59.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sekreter_detay.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ali\\Desktop\\gt\\MHRS\\MHRS\\Sekreter_detay.cs",
+              "RelativeDocumentMoniker": "MHRS\\Sekreter_detay.cs",
+              "ToolTip": "C:\\Users\\ali\\Desktop\\gt\\MHRS\\MHRS\\Sekreter_detay.cs [Tasar\u0131m]",
+              "RelativeToolTip": "MHRS\\Sekreter_detay.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T14:52:59.546Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ali\\Desktop\\gt\\MHRS\\MHRS\\Form1.cs",
+              "RelativeDocumentMoniker": "MHRS\\Form1.cs",
+              "ToolTip": "C:\\Users\\ali\\Desktop\\gt\\MHRS\\MHRS\\Form1.cs",
+              "RelativeToolTip": "MHRS\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T14:52:59.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ali\\Desktop\\gt\\MHRS\\MHRS\\Form1.cs",
+              "RelativeDocumentMoniker": "MHRS\\Form1.cs",
+              "ToolTip": "C:\\Users\\ali\\Desktop\\gt\\MHRS\\MHRS\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "MHRS\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T14:52:59.641Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Hasta_Giris.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ali\\Desktop\\gt\\MHRS\\MHRS\\Hasta_Giris.cs",
+              "RelativeDocumentMoniker": "MHRS\\Hasta_Giris.cs",
+              "ToolTip": "C:\\Users\\ali\\Desktop\\gt\\MHRS\\MHRS\\Hasta_Giris.cs [Tasar\u0131m]",
+              "RelativeToolTip": "MHRS\\Hasta_Giris.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T14:52:59.641Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Hasta_Giris.cs",
+              "DocumentMoniker": "C:\\Users\\ali\\Desktop\\gt\\MHRS\\MHRS\\Hasta_Giris.cs",
+              "RelativeDocumentMoniker": "MHRS\\Hasta_Giris.cs",
+              "ToolTip": "C:\\Users\\ali\\Desktop\\gt\\MHRS\\MHRS\\Hasta_Giris.cs",
+              "RelativeToolTip": "MHRS\\Hasta_Giris.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwDEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T14:52:59.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Hasta_kayit.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ali\\Desktop\\gt\\MHRS\\MHRS\\Hasta_kayit.cs",
+              "RelativeDocumentMoniker": "MHRS\\Hasta_kayit.cs",
+              "ToolTip": "C:\\Users\\ali\\Desktop\\gt\\MHRS\\MHRS\\Hasta_kayit.cs [Tasar\u0131m]",
+              "RelativeToolTip": "MHRS\\Hasta_kayit.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T14:52:59.546Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "sql_baglan.cs",
+              "DocumentMoniker": "C:\\Users\\ali\\Desktop\\gt\\MHRS\\MHRS\\sql_baglan.cs",
+              "RelativeDocumentMoniker": "MHRS\\sql_baglan.cs",
+              "ToolTip": "C:\\Users\\ali\\Desktop\\gt\\MHRS\\MHRS\\sql_baglan.cs",
+              "RelativeToolTip": "MHRS\\sql_baglan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T14:52:59.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Sekreter_detay.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ali\\Desktop\\gt\\MHRS\\MHRS\\Sekreter_detay.Designer.cs",
+              "RelativeDocumentMoniker": "MHRS\\Sekreter_detay.Designer.cs",
+              "ToolTip": "C:\\Users\\ali\\Desktop\\gt\\MHRS\\MHRS\\Sekreter_detay.Designer.cs",
+              "RelativeToolTip": "MHRS\\Sekreter_detay.Designer.cs",
+              "ViewState": "AQIAAIoBAAAAAAAAAAAqwJ4BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T19:13:34.412Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

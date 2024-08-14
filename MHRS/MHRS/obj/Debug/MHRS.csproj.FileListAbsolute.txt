@@ -1,0 +1,43 @@
+C:\Users\burak\OneDrive\Masaüstü\MHRS\MHRS\MHRS\bin\Debug\MHRS.exe.config
+C:\Users\burak\OneDrive\Masaüstü\MHRS\MHRS\MHRS\bin\Debug\MHRS.exe
+C:\Users\burak\OneDrive\Masaüstü\MHRS\MHRS\MHRS\bin\Debug\MHRS.pdb
+C:\Users\burak\OneDrive\Masaüstü\MHRS\MHRS\MHRS\obj\Debug\MHRS.csproj.AssemblyReference.cache
+C:\Users\burak\OneDrive\Masaüstü\MHRS\MHRS\MHRS\obj\Debug\MHRS.csproj.SuggestedBindingRedirects.cache
+C:\Users\burak\OneDrive\Masaüstü\MHRS\MHRS\MHRS\obj\Debug\MHRS.Form1.resources
+C:\Users\burak\OneDrive\Masaüstü\MHRS\MHRS\MHRS\obj\Debug\MHRS.Hasta_Ekranı.resources
+C:\Users\burak\OneDrive\Masaüstü\MHRS\MHRS\MHRS\obj\Debug\MHRS.Hasta_Giris.resources
+C:\Users\burak\OneDrive\Masaüstü\MHRS\MHRS\MHRS\obj\Debug\MHRS.Hasta_kayit.resources
+C:\Users\burak\OneDrive\Masaüstü\MHRS\MHRS\MHRS\obj\Debug\MHRS.Properties.Resources.resources
+C:\Users\burak\OneDrive\Masaüstü\MHRS\MHRS\MHRS\obj\Debug\MHRS.Sekreter_detay.resources
+C:\Users\burak\OneDrive\Masaüstü\MHRS\MHRS\MHRS\obj\Debug\MHRS.csproj.GenerateResource.cache
+C:\Users\burak\OneDrive\Masaüstü\MHRS\MHRS\MHRS\obj\Debug\MHRS.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\MHRS\MHRS\MHRS\obj\Debug\MHRS.exe
+C:\Users\burak\OneDrive\Masaüstü\MHRS\MHRS\MHRS\obj\Debug\MHRS.pdb
+C:\Users\ALİ TOKMAK\Desktop\MHRS\MHRS\bin\Debug\MHRS.exe.config
+C:\Users\ALİ TOKMAK\Desktop\MHRS\MHRS\bin\Debug\MHRS.exe
+C:\Users\ALİ TOKMAK\Desktop\MHRS\MHRS\bin\Debug\MHRS.pdb
+C:\Users\ALİ TOKMAK\Desktop\MHRS\MHRS\obj\Debug\MHRS.csproj.AssemblyReference.cache
+C:\Users\ALİ TOKMAK\Desktop\MHRS\MHRS\obj\Debug\MHRS.Form1.resources
+C:\Users\ALİ TOKMAK\Desktop\MHRS\MHRS\obj\Debug\MHRS.Hasta_Ekranı.resources
+C:\Users\ALİ TOKMAK\Desktop\MHRS\MHRS\obj\Debug\MHRS.Hasta_Giris.resources
+C:\Users\ALİ TOKMAK\Desktop\MHRS\MHRS\obj\Debug\MHRS.Hasta_kayit.resources
+C:\Users\ALİ TOKMAK\Desktop\MHRS\MHRS\obj\Debug\MHRS.Properties.Resources.resources
+C:\Users\ALİ TOKMAK\Desktop\MHRS\MHRS\obj\Debug\MHRS.Sekreter_detay.resources
+C:\Users\ALİ TOKMAK\Desktop\MHRS\MHRS\obj\Debug\MHRS.csproj.GenerateResource.cache
+C:\Users\ALİ TOKMAK\Desktop\MHRS\MHRS\obj\Debug\MHRS.csproj.CoreCompileInputs.cache
+C:\Users\ALİ TOKMAK\Desktop\MHRS\MHRS\obj\Debug\MHRS.exe
+C:\Users\ALİ TOKMAK\Desktop\MHRS\MHRS\obj\Debug\MHRS.pdb
+C:\Users\ali\Desktop\gt\MHRS\MHRS\bin\Debug\MHRS.exe.config
+C:\Users\ali\Desktop\gt\MHRS\MHRS\bin\Debug\MHRS.exe
+C:\Users\ali\Desktop\gt\MHRS\MHRS\bin\Debug\MHRS.pdb
+C:\Users\ali\Desktop\gt\MHRS\MHRS\obj\Debug\MHRS.csproj.AssemblyReference.cache
+C:\Users\ali\Desktop\gt\MHRS\MHRS\obj\Debug\MHRS.Form1.resources
+C:\Users\ali\Desktop\gt\MHRS\MHRS\obj\Debug\MHRS.Hasta_Ekranı.resources
+C:\Users\ali\Desktop\gt\MHRS\MHRS\obj\Debug\MHRS.Hasta_Giris.resources
+C:\Users\ali\Desktop\gt\MHRS\MHRS\obj\Debug\MHRS.Hasta_kayit.resources
+C:\Users\ali\Desktop\gt\MHRS\MHRS\obj\Debug\MHRS.Properties.Resources.resources
+C:\Users\ali\Desktop\gt\MHRS\MHRS\obj\Debug\MHRS.Sekreter_detay.resources
+C:\Users\ali\Desktop\gt\MHRS\MHRS\obj\Debug\MHRS.csproj.GenerateResource.cache
+C:\Users\ali\Desktop\gt\MHRS\MHRS\obj\Debug\MHRS.csproj.CoreCompileInputs.cache
+C:\Users\ali\Desktop\gt\MHRS\MHRS\obj\Debug\MHRS.exe
+C:\Users\ali\Desktop\gt\MHRS\MHRS\obj\Debug\MHRS.pdb
